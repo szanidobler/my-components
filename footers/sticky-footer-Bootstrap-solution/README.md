@@ -1,0 +1,1 @@
+Fixing sticky footer with Bootstrap solution
