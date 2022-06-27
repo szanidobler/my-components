@@ -1,1 +1,1 @@
-Navbar template for websites using unordered list
+Navbar template for websites using unordered list, not fixed at top
